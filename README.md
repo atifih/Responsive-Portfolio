@@ -27,7 +27,7 @@ VScode - Code editor.
 MIT License.
 
 Link to the App
-Link to the App
+https://atifih.github.io/Responsive-Portfolio/
 
 # Authors
 Haque, Atif
