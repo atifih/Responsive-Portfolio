@@ -21,6 +21,9 @@ VScode - Code editor.
 
 # Screenshots
 ![](images/portfolio.png)
+![](images/about.png)
+![](images/contact.png)
+
 
 
 # Licence
