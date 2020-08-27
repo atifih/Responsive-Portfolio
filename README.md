@@ -1,7 +1,6 @@
 # Responsive-Portfolio
 Using the Bootstrap CSS Framework to create a mobile responsive portfolio.
-Homework1--HTML-CSS-Git-Code-Refactor
-Coding Bootcamp Homework assignment - Refactoring using HTML, CSS and Git.
+
 
 # Contents
 The app is composed of 3 web pages. The files associated with web page are as follows:
