@@ -20,9 +20,9 @@ VScode - Code editor.
 [Terminal] - command line user interface for the bash shell.Used the program that ships with Mac OS "Catalina".​le 
 
 # Screenshots
-![](images/portfolio.png)
-![](images/about.png)
-![](images/contact.png)
+![](images/Portfolio.png)
+![](images/About.png)
+![](images/Contact.png)
 
 
 
